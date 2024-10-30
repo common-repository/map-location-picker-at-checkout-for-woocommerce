@@ -1,0 +1,2581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Location Picker At Checkout For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-05 18:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Uriahs Victor <support@lpacwp.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-5.9.3\n"
+"X-Domain: map-location-picker-at-checkout-for-woocommerce"
+
+#. 1: Opening <p> HTML element 2: Opening <strong> HTML element 3: Closing <strong> HTML element 4: Closing <p> HTML element
+#: includes/Notices/Admin.php:40
+#, php-format
+msgid ""
+"%1$s%2$sKikote - Location Picker at Checkout for WooCommerce NOTICE:%3$s "
+"HTTPS not detected on this website. The plugin will not work. Please enable "
+"HTTPS on this website.%4$s"
+msgstr ""
+
+#. 1: Opening <p> HTML element 2: Opening <strong> HTML element 3: Closing <strong> HTML element 4: Closing <p> HTML element
+#: lpac.php:48 lpac.php:67
+#, php-format
+msgid ""
+"%1$s%2$sKikote - Location Picker at Checkout for WooCommerce NOTICE:%3$s PHP "
+"version too low to use this plugin. Please change to at least PHP 7.4. You "
+"can contact your web host for assistance in updating your PHP version.%4$s"
+msgstr ""
+
+#. 1: Opening <p> HTML element 2: Opening <strong> HTML element 3: Closing <strong> HTML element 4: Closing <p> HTML element
+#: lpac.php:99
+#, php-format
+msgid ""
+"%1$s%2$sKikote - Location Picker at Checkout for WooCommerce NOTICE:%3$s "
+"WooCommerce is not activated, please activate it to use the plugin.%4$s"
+msgstr ""
+
+#: includes/Bootstrap/Main.php:644
+#, php-format
+msgid "%1$sCheck out PRO%2$s"
+msgstr ""
+
+#: includes/Pro/Views/Frontend/Frontend.php:73
+#, php-format
+msgid "%1$sEdit saved addresses%2$s"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:824
+#: includes/Pro/Views/Admin/Admin_Settings.php:900
+#, php-format
+msgid ""
+"%1$sPlease firstly create some store locations in the \"Store Locations\" "
+"tab %2$sHERE%3$s.%4$s"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:433
+#: includes/Pro/Views/Admin/Admin_Settings.php:510
+#, php-format
+msgid ""
+"%1$sPlease firstly draw some Shipping Regions to activate this feature.%2$s"
+msgstr ""
+
+#: includes/Bootstrap/Main.php:642
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:122
+msgid "[NEW] Printus - Cloud Printing Plugin for WooCommerce"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:150
+msgid "[NOTE] Kikote - Location Picker at Checkout for WooCommerce"
+msgstr ""
+
+#. 1: HTML <br> element 2: HTML <code> tag 3: Location of .csv files 4: HTML </code> tag
+#: includes/Views/Admin/Admin_Settings.php:1163
+#: includes/Pro/Views/Admin/Admin_Settings.php:284
+#, php-format
+msgid ""
+"A .CSV file with Order ID, Customer Name, Customer Email, Order Date, Map "
+"Link and Phone Number will be downloaded.%1$s Files are saved to: %2$s %3$s "
+"%4$s"
+msgstr ""
+
+#: includes/Views/Admin/Admin.php:344
+msgid "Add"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:369
+msgid ""
+"Add either a button to Google Maps, a QR Code or Static Map to the order "
+"emails."
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:361
+#, php-format
+msgid ""
+"Add either a Button, QR Code or Static Map image that links to Google Maps "
+"to the order emails. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:359
+msgid "Add Map Link to Order Emails?"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:43
+msgid "Add new"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:44
+msgid "Add new maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:749
+msgid "Address"
+msgstr ""
+
+#: includes/Pro/Views/Frontend/WooCommerce_Account.php:100
+msgid "Address Name"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:896
+#: includes/Pro/Views/Admin/Admin_Settings.php:83
+msgid "Admin Dashboard View Order Page Map ID"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allow customers to choose their shipping or pickup location using a map at "
+"checkout."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:540
+#: includes/Pro/Views/Admin/Admin_Settings.php:222
+#, php-format
+msgid "Allow customers to save different addresses for later use. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1985
+msgid ""
+"Allow customers to set their delivery/pickup date and time during order "
+"checkout."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:464
+msgid "Allowed Places Autocomplete Fields"
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:437
+#, php-format
+msgid ""
+"Allows customers to begin typing an address and receive suggestions from "
+"Google. NOTE: This is not as reliable as allowing customers to select their "
+"location on the map. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:587
+msgid "Alter the instructions that appear below the map."
+msgstr ""
+
+#: includes/Pro/Controllers/Export_Orders.php:55
+msgid "An error occurred trying to retrieve the CSV link"
+msgstr ""
+
+#: includes/Pro/Controllers/Export_Orders.php:90
+msgid "An error occurred trying to retrieve the orders."
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:698
+msgid ""
+"An error occurred while trying to detect your location. Please try again "
+"after the page has refreshed."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1994
+msgid ""
+"Automatically print order invoices, receipts, package slips and labels to "
+"your local printer."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:767
+msgid "Available in PRO"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:158
+msgid "Background Color"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:615
+msgid "Background Color (HEX)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:616
+msgid "Background color of map container (visible while map is loading)."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:388
+msgid "Before Customer Details"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:387
+msgid "Before Order Table"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2239
+msgid "Before Payment Options"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1549
+#: includes/Pro/Views/Admin/Admin_Settings.php:652
+msgid "Bicycling"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:469
+msgid "Billing Address 1"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2238
+#: includes/Views/Admin/Admin_Settings.php:2269
+msgid "Billing Address Area - Bottom"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2237
+#: includes/Views/Admin/Admin_Settings.php:2268
+msgid "Billing Address Area - Top"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:375
+msgid "Button"
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:322
+#, php-format
+msgid ""
+"By default, the plugin will only show the street address inside the Street "
+"Address 1 field. Turn off this option if you want the full address to be "
+"entered instead. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1732
+#: includes/Pro/Views/Admin/Admin_Settings.php:791
+msgid "Calculate per"
+msgstr ""
+
+#: includes/Controllers/Map_Visibility_Controller.php:179
+msgid "Cart Subtotal"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1580
+#: includes/Pro/Views/Admin/Admin_Settings.php:675
+#, php-format
+msgid ""
+"Charge customers based on the distance between your store and their location."
+" %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1444
+#, php-format
+msgid ""
+"Charge customers based on the distance between your store and their location."
+" Be sure to test this before committing to the changes. %s"
+msgstr ""
+
+#: includes/Bootstrap/Main.php:733
+msgid "Check out our available plugins"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:828
+msgid ""
+"Checking this option will add the Store name and address inside the "
+"WooCommerce order emails."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2234
+#: includes/Views/Admin/Admin_Settings.php:2248
+#: includes/Views/Admin/Admin_Settings.php:2265
+msgid "Checkout Form - Top"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:685
+msgid "Checkout Page Default Map Type"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:625
+msgid "Checkout Page Map Height (in px)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:866
+#: includes/Pro/Views/Admin/Admin_Settings.php:59
+msgid "Checkout Page Map ID"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:635
+msgid "Checkout Page Map Width (in %)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:577
+msgid "Choose where you would like the map to appear on the checkout page."
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:214
+msgid "Cities"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:392
+#: includes/Views/Admin/Admin_Settings.php:589
+msgid ""
+"Click the \"Detect Current Location\" button then move the red marker to "
+"your desired shipping address."
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:171
+msgid "Clickable Icons"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:404
+msgid "Completed Order"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1461
+#: includes/Pro/Views/Admin/Admin_Settings.php:573
+msgid "Configuration"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1463
+#: includes/Pro/Views/Admin/Admin_Settings.php:575
+msgid "Configure the base settings that will allow you to use this feature."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:743
+msgid "Coordinates"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1442
+#: includes/Pro/Views/Admin/Admin_Settings.php:558
+msgid "Cost by Distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1198
+#: includes/Pro/Views/Admin/Admin_Settings.php:316
+msgid "Cost by Region"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1815
+#: includes/Pro/Views/Admin/Admin_Settings.php:861
+msgid "Cost by Store Location"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1596
+#: includes/Pro/Views/Admin/Admin_Settings.php:687
+msgid "Cost Per Unit Distance"
+msgstr ""
+
+#: includes/Controllers/Map_Visibility_Controller.php:172
+msgid "Coupons"
+msgstr ""
+
+#: lpac.php:226
+msgid ""
+"Create custom maps showing your store locations and serviceable areas and "
+"add them anywhere on your website using a shortcode."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1712
+#: includes/Pro/Views/Admin/Admin_Settings.php:771
+msgid "Create Ranges"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:785
+#, php-format
+msgid ""
+"Create your different store locations. A \"store\" in this context simply "
+"means the locations where you do business. Separate latitude and longitude "
+"coordinates with a comma. You can use a website like %1$sthis one%2$s to get "
+"the GPS coordinates for an address. %3$s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1694
+#: includes/Pro/Views/Admin/Admin_Settings.php:757
+#, php-format
+msgid ""
+"Create your distance ranges and set the Price. It is highly recommended that "
+"you read the official documentation for this feature to fully understand how "
+"it works. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:730
+msgid ""
+"Creating store locations is optional if you only have one store location."
+msgstr ""
+
+#. 1: HTML break element
+#: includes/Views/Admin/Admin.php:535
+#, php-format
+msgid ""
+"Custom Maps, Custom Marker Icons, Saved Addresses, More Visibility Rules, "
+"Cost by Region, Cost by Distance, Cost by Store Location, Multi-Store "
+"Distance Pricing, Export Order Locations & More. %s Get the most out of "
+"Kikote with the PRO version."
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:154
+msgid "Customer Email"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:405
+msgid "Customer Invoice"
+msgstr ""
+
+#: includes/Views/Admin/Admin.php:69
+msgid "Customer Location"
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:153
+msgid "Customer Name"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:403
+msgid "Customer Note"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1139
+#: includes/Pro/Views/Admin/Admin_Settings.php:263
+msgid "Date From"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1148
+#: includes/Pro/Views/Admin/Admin_Settings.php:271
+msgid "Date To"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1231
+#: includes/Pro/Views/Admin/Admin_Settings.php:341
+msgid ""
+"Default background color for drawn regions on the frontend of the website."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:595
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:180
+msgid "Default Coordinates"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1230
+#: includes/Pro/Views/Admin/Admin_Settings.php:340
+msgid "Default Region Color (HEX)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:605
+msgid "Default Zoom"
+msgstr ""
+
+#: includes/Views/Admin/Admin.php:345
+msgid "Delete"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1954
+msgid "Delete all plugin settings on uninstall."
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:132
+#: includes/Views/Admin/Admin_Settings.php:819
+#: includes/Views/Admin/Admin_Settings.php:821
+msgid "Deliver from"
+msgstr ""
+
+#: includes/Controllers/Emails_Controller.php:91
+#: includes/Controllers/Emails_Controller.php:132
+msgid "Delivery Location"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:387
+msgid "Detect Current Location"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:281
+msgid "Detect Customer Location on Checkout Page Load"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:411
+msgid "Directions to Customer"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:697
+msgid "Disable Map Controls"
+msgstr ""
+
+#: includes/Notices/Notice.php:92
+msgid "Dismiss"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:99
+msgid "Display"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1529
+#: includes/Pro/Views/Admin/Admin_Settings.php:636
+msgid "Display Cost & Unit in Shipping Label"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:569
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:196
+msgid "Display Settings"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1318
+#: includes/Pro/Views/Admin/Admin_Settings.php:404
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:116
+msgid "Display Shipping Regions Name"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1330
+#: includes/Pro/Views/Admin/Admin_Settings.php:412
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:120
+msgid "Display Shipping Regions Price"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:808
+msgid "Display Store Selector on Checkout Page"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:320
+msgid "Dissect Street Address"
+msgstr ""
+
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:213
+#: includes/Pro/Views/Admin/Admin.php:99 includes/Pro/Views/Admin/Admin.php:184
+msgid "Distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1474
+#: includes/Pro/Views/Admin/Admin_Settings.php:583
+msgid "Distance Matrix API Key"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1513
+#: includes/Pro/Views/Admin/Admin_Settings.php:624
+msgid "Distance Unit"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:58
+msgid ""
+"Do you speak a language beside English? If so, then please help translate "
+"Kikote to your native language; this will help other users who know your "
+"native language, but speak little to no English, better navigate and set up "
+"the plugin. Plus, you will get a cool \"Translation Contributor\" badge on "
+"your WordPress.org profile"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1161
+msgid "Download sample export"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1244
+#: includes/Pro/Views/Admin/Admin_Settings.php:350
+msgid "Draw Shipping Regions"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1548
+#: includes/Pro/Views/Admin/Admin_Settings.php:651
+msgid "Driving"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin.php:104
+msgid "Duration"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:45
+msgid "Edit maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:353
+msgid "Emails"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:546
+msgid "Enable"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:300
+msgid "Enable Clickable Icons"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:435
+#: includes/Views/Admin/Admin_Settings.php:1205
+#: includes/Views/Admin/Admin_Settings.php:1449
+#: includes/Views/Admin/Admin_Settings.php:1584
+#: includes/Views/Admin/Admin_Settings.php:1698
+#: includes/Views/Admin/Admin_Settings.php:1752
+#: includes/Views/Admin/Admin_Settings.php:1823
+#: includes/Pro/Views/Admin/Admin_Settings.php:227
+#: includes/Pro/Views/Admin/Admin_Settings.php:323
+#: includes/Pro/Views/Admin/Admin_Settings.php:565
+#: includes/Pro/Views/Admin/Admin_Settings.php:679
+#: includes/Pro/Views/Admin/Admin_Settings.php:761
+#: includes/Pro/Views/Admin/Admin_Settings.php:809
+#: includes/Pro/Views/Admin/Admin_Settings.php:869
+msgid "Enable Feature"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1371
+#: includes/Pro/Views/Admin/Admin_Settings.php:471
+msgid "Enable for Local Pickup"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:498
+msgid "Enable Free Shipping for Regions"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:420
+msgid "Enable Shipping Restrictions"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:229
+#: includes/Views/Admin/Admin_Settings.php:242
+msgid "Enable the plugin and its features."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1373
+#: includes/Pro/Views/Admin/Admin_Settings.php:473
+msgid ""
+"Enable this option if you would like the above Shipping Restrictions to also "
+"apply to Local Pickup shipping methods."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:227
+#: includes/Views/Admin/Admin_Settings.php:240
+msgid "Enabled"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:309
+msgid ""
+"Enabling multiple shipping workflows can lead to unexpected shipping costs "
+"and behavior. Be sure to test your setup if you enable more than one."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:501
+#: includes/Pro/Views/Admin/Admin_Settings.php:190
+#, php-format
+msgid ""
+"Enabling this option will add a searchbox inside the checkout page map. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1531
+msgid ""
+"Enabling this option will append the \"Cost Per Unit Distance\" and "
+"\"Distance Unit\" to the end of the Shipping Method name. E.g: Flat Rate ($1."
+"50/Km)."
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:638
+msgid ""
+"Enabling this option will append the \"Cost Per Unit Distance\" and "
+"\"Distance Unit\" to the end of the Shipping Method name. E.g: Flat Rate ($1."
+"50/Km). NOTE: This option does not apply to the \"Cost by Distance Range\" "
+"feature since it uses fixed costs."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:283
+#, php-format
+msgid ""
+"Enabling this option will have the plugin immediately try to detect the "
+"customer location when the checkout page loads. NOTE: This can negatively "
+"impact customer experiences. Think carefully before enabling this option. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1946
+msgid ""
+"Enabling this option will show the current distance between the origin and "
+"the selected location on the map as calculated by the Google API."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1676
+#: includes/Pro/Views/Admin/Admin_Settings.php:743
+#, php-format
+msgid ""
+"Enabling this option will substract the \"Free Shipping for Distance\" value "
+"from the total distance of the customer. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1219
+#: includes/Views/Admin/Admin_Settings.php:1562
+#: includes/Views/Admin/Admin_Settings.php:1837
+#: includes/Pro/Views/Admin/Admin_Settings.php:333
+#: includes/Pro/Views/Admin/Admin_Settings.php:661
+#: includes/Pro/Views/Admin/Admin_Settings.php:889
+msgid ""
+"Enabling this option will update your cart taxes with the relevant fee for "
+"the calculated shipping cost."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1724
+#: includes/Pro/Views/Admin/Admin_Settings.php:783
+msgid "End range"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:739
+msgid "Enter a store name"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:158
+msgid "Enter Address Name"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:252
+msgid "Enter the API key from Google cloud console."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:253
+msgid ""
+"Enter the API key you copied from the Google Cloud Console. Without the "
+"Google Maps API key the plugin will not work. <a href=\"https://lpacwp."
+"com/docs/getting-your-google-maps-api-key/?"
+"utm_source=generaltab&utm_medium=lpacdashboard&utm_campaign=freedocs\" "
+"target=\"blank\">Learn More <span style=\"text-decoration: none\" "
+"class=\"dashicons dashicons-external\"></span></a>"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1502
+#: includes/Pro/Views/Admin/Admin_Settings.php:604
+#, php-format
+msgid ""
+"Enter the coordinates of the location from which the delivery/pickup will "
+"begin. This might be the coordinates for your physical store or business. If "
+"you have multiple origin locations (example multiple stores) then create "
+"them in the \"Store Locations\" tab and enable the option to show store "
+"selector on the checkout page. The plugin will use the selected store "
+"location by the customer as the origin. You can find the coordinates for a "
+"location %1$sHere >>%2$s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:596
+msgid ""
+"Enter the default latitude and longitude that will be fetched every time the "
+"map loads."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:597
+#, php-format
+msgid ""
+"Enter the default latitude and longitude that will be fetched every time the "
+"map loads. You can find the coordinates for a location %1$sHere >>%2$s. Be "
+"sure to include the comma when adding your coordinates above."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:607
+msgid "Enter the default zoom that will be used every time the map loads."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:626
+#: includes/Views/Admin/Admin_Settings.php:646
+#: includes/Views/Admin/Admin_Settings.php:666
+#: includes/Views/Admin/Admin_Settings.php:676
+msgid "Enter the height of map you'd like."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:817
+msgid ""
+"Enter the label you would like to use for the Store Selector field in the "
+"checkout page."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:456
+msgid ""
+"Enter the notice message that shows when a customer tries to checkout "
+"without making use of the places autocomplete feature."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1598
+#: includes/Pro/Views/Admin/Admin_Settings.php:688
+msgid ""
+"Enter the price you wish to charge per Kilometer/Mile. The default store "
+"currency will be used."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1398
+#: includes/Pro/Views/Admin/Admin_Settings.php:490
+#, php-format
+msgid ""
+"Enter the text for the notice that displays when a customer current order "
+"total is beyond what you have set for their detected region's %1$sMaximum "
+"order total%2$s. %3$sNOTE: The maximum allowed order total is automatically "
+"appended to the text on the checkout page.%4$s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1385
+#: includes/Pro/Views/Admin/Admin_Settings.php:481
+#, php-format
+msgid ""
+"Enter the text for the notice that displays when a customer current order "
+"total is lower than what you have set for their detected region's "
+"%1$sMinimum order total%2$s. %3$sNOTE: The minimum amount needed is "
+"automatically appended to the text on the checkout page.%4$s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1649
+#: includes/Pro/Views/Admin/Admin_Settings.php:724
+msgid ""
+"Enter the text that displays when a customer tries to checkout with a "
+"location that is beyond your max shipping distance."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1294
+#: includes/Pro/Views/Admin/Admin_Settings.php:388
+msgid ""
+"Enter the text that displays when a customer tries to checkout without "
+"choosing a location within a drawn region."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1281
+#: includes/Pro/Views/Admin/Admin_Settings.php:379
+msgid ""
+"Enter the text that displays when a customer's location does not fall within "
+"any drawn shipping region."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1636
+#: includes/Pro/Views/Admin/Admin_Settings.php:715
+msgid ""
+"Enter the text that displays when a customer's location is beyond your max "
+"shipping distance."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1544
+#: includes/Pro/Views/Admin/Admin_Settings.php:646
+msgid ""
+"Enter the travel mode you will be using. Though multiple options are "
+"provided, you might always want to use \"driving\" for best results."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:915
+#: includes/Pro/Views/Admin/Admin_Settings.php:100
+msgid "Enter the URL to the icon that should be used as the custom map marker."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:636
+#: includes/Views/Admin/Admin_Settings.php:656
+msgid "Enter the width of map you'd like."
+msgstr ""
+
+#: admin-pointers.php:53
+msgid "Enter Your API Key"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1348
+#: includes/Views/Admin/Admin_Settings.php:1416
+#: includes/Views/Admin/Admin_Settings.php:1791
+#: includes/Views/Admin/Admin_Settings.php:1889
+#: includes/Pro/Views/Admin/Admin_Settings.php:447
+#: includes/Pro/Views/Admin/Admin_Settings.php:524
+#: includes/Pro/Views/Admin/Admin_Settings.php:838
+#: includes/Pro/Views/Admin/Admin_Settings.php:914
+msgid "entry"
+msgstr ""
+
+#: includes/Pro/Controllers/WooCommerce_Account.php:36
+msgid "Error"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:212
+msgid "Establishment"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:103
+#: includes/Views/Admin/Admin_Settings.php:1123
+#: includes/Pro/Views/Admin/Admin_Settings.php:247
+msgid "Export"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1157
+#: includes/Pro/Views/Admin/Admin_Settings.php:279
+msgid "Export to CSV"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:53
+msgid "Featured image for this maps"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:60
+msgid "Filter maps list"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:445
+msgid "Force use of Autocomplete feature"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:290
+msgid "Force Use of Map"
+msgstr ""
+
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:199
+msgid "Free Shipping Distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1661
+#: includes/Pro/Views/Admin/Admin_Settings.php:732
+msgid "Free Shipping for Distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1410
+#: includes/Pro/Views/Admin/Admin_Settings.php:508
+#: includes/Pro/Views/Admin/Admin_Settings.php:517
+msgid "Free Shipping for Regions"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:704
+msgid "Fullscreen Button"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:98
+msgid "General"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:212
+msgid "General Settings"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:211
+msgid "Geocode"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:694
+msgid ""
+"Geolocation is not possible on this web browser. Please switch to a "
+"different web browser to use our interactive map."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1038
+#: includes/Views/Admin/Admin_Settings.php:1113
+#: includes/Views/Admin/Admin_Settings.php:1185
+msgid "Get More With PRO"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:153
+msgid "Get Support"
+msgstr ""
+
+#: includes/Pro/Controllers/AdminSettingsController.php:146
+msgid "Give region a price."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:422
+msgid "Google Maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:251
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:165
+msgid "Guest Customer"
+msgstr ""
+
+#: includes/Controllers/Map_Visibility_Controller.php:169
+msgid "Guest Orders"
+msgstr ""
+
+#: includes/Notices/Review_Notices.php:52
+msgid "Has Kikote Helped You?"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:162
+msgid "Height"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:153
+msgid "HERE"
+msgstr ""
+
+#: includes/Notices/Review_Notices.php:53
+msgid ""
+"Hey! Has the plugin helped your website and/or business? If yes, then would "
+"you mind taking a few seconds to leave a kind review? Reviews go a long way "
+"and they really help keep me motivated to continue working on the plugin and "
+"making it better"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:82
+msgid ""
+"Hey! We have a new plugin that helps you further optimize your store— by "
+"letting customers select the date and time they'd like their Delivery or "
+"Pickup order. Give it a shot and let me know how it can be improved to "
+"better serve you!"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:659
+msgid ""
+"Hi Admin, some websites might have issues with displaying or using the "
+"Google Map. If you're having issues then please have a look at your browser "
+"console for any errors."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:996
+#: includes/Views/Admin/Admin_Settings.php:1068
+#: includes/Pro/Views/Admin/Admin_Settings.php:150
+msgid "Hide"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1934
+msgid "Hide checkout notice"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:953
+msgid "Hide map for Guest orders"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:964
+msgid "Hide Map for Shipping Methods"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:477
+msgid "Hide Map When Using Places Autocomplete"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1936
+msgid "Hide the admin checkout notice."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:955
+msgid "Hide the map for customers who aren't logged in."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:966
+#, php-format
+msgid ""
+"Hide the map when any of these shipping methods are chosen by the user. %s"
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:479
+msgid "Hide the map when using the Places Autocomplete feature."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1953
+msgid "Housekeeping"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://lpacwp.com"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:691
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:153
+msgid "Hybrid"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:59
+msgid "I can help"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:754
+msgid "Icon URL"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1662
+#: includes/Pro/Views/Admin/Admin_Settings.php:733
+#, php-format
+msgid ""
+"If a customer distance falls within the range you set above, then their "
+"shipping cost will be free. The unit used will be the same as the unit you "
+"set above. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1269
+#: includes/Pro/Views/Admin/Admin_Settings.php:371
+msgid ""
+"If checked, a customer WILL NOT be able to place an order unless they choose "
+"a location that falls within any of your drawn regions. Pair this setting "
+"with the \"Force Use of Map\" general option for best results."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1611
+#: includes/Pro/Views/Admin/Admin_Settings.php:698
+msgid ""
+"If checked, you can limit the maximum distance you will ship to. The "
+"distance will be calculated in the unit you set above."
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:311
+#, php-format
+msgid ""
+"If you enable this option the plugin will attempt to remove the Plus Code "
+"that shows infront addresses returned by Google Maps. Example <code>"
+"TMWXH+CW</code>. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:164
+msgid "If you encounter any issues then please open a support ticket"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:58
+msgid "Insert into maps"
+msgstr ""
+
+#: includes/Pro/Controllers/WooCommerce_Account.php:36
+msgid "Invalid Nonce"
+msgstr ""
+
+#. 1: Learn more link 2: HTML Break element
+#: includes/Views/Admin/Admin_Settings.php:273
+msgid ""
+"It's fine if your country is not in this list. This feature helps better "
+"align the map with your country, but everything will still work fine without "
+"it."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2003
+msgid ""
+"Join E-Commerce store owners like yourself from around the world in a "
+"community tailored at helping your business grow."
+msgstr ""
+
+#: includes/Notices/General_Notices.php:105
+msgid "Join our E-Commerce Support Community"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kikote - Location Picker at Checkout for WooCommerce"
+msgstr ""
+
+#: includes/Notices/Upsells_Notices.php:54
+msgid "Kikote - Location Picker at Checkout PRO"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1518
+#: includes/Pro/Views/Admin/Admin_Settings.php:629
+msgid "Kilometers"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:326
+#: includes/Pro/Views/Frontend/WooCommerce_Account.php:101
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:181
+msgid "Latitude"
+msgstr ""
+
+#: includes/Bootstrap/Main.php:739 includes/Bootstrap/Main.php:751
+#: includes/Views/Frontend/Frontend.php:657
+msgid "Learn More"
+msgstr ""
+
+#: lpac.php:226 includes/Notices/General_Notices.php:107
+#: includes/Notices/Notice.php:83
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:142
+msgid "Learn more"
+msgstr ""
+
+#. 1: Dashicons outbound link icon
+#: includes/Views/Admin/Admin_Settings.php:65 includes/Views/Admin/Admin.php:60
+#: includes/Views/Admin/Admin.php:537
+#: includes/Pro/Views/Admin/Admin_Settings.php:38
+#, php-format
+msgid "Learn More %s"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:168
+msgid "Leave empty to make width 100%"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:173
+#, php-format
+msgid ""
+"Let customers choose their date and time for an order. Check out our "
+"%1$sDelivery & Pickup Scheduling Plugin%2$s."
+msgstr ""
+
+#: includes/Bootstrap/Main.php:750
+msgid ""
+"Let customers choose their shipping or pickup location using a map during "
+"checkout."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1609
+#: includes/Pro/Views/Admin/Admin_Settings.php:696
+msgid "Limit Shipping Distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:383
+msgid "Link Location"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:913
+#: includes/Pro/Views/Admin/Admin_Settings.php:98
+msgid "Link to Icon"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:368
+msgid "Link Type"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:559 includes/Views/Admin/Admin.php:142
+#: includes/Views/Admin/Admin.php:579 includes/Views/Admin/Admin.php:634
+msgid "Location"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:789
+msgid "location"
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:157
+msgid "Location Link"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:63
+msgid "Location Picker at Checkout"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1896
+#: includes/Pro/Views/Admin/Admin_Settings.php:921
+msgid "Location shipping price"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:336
+#: includes/Pro/Views/Frontend/WooCommerce_Account.php:102
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:182
+msgid "Longitude"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1217
+#: includes/Views/Admin/Admin_Settings.php:1560
+#: includes/Views/Admin/Admin_Settings.php:1835
+#: includes/Pro/Views/Admin/Admin_Settings.php:331
+#: includes/Pro/Views/Admin/Admin_Settings.php:659
+#: includes/Pro/Views/Admin/Admin_Settings.php:887
+msgid "Make calculated fees taxable"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:40
+msgid "Map"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:264
+msgid "Map Behaviour"
+msgstr ""
+
+#: lpac.php:225 lpac.php:236 includes/Views/Admin/Admin_Settings.php:111
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:42
+msgid "Map Builder"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:859
+#: includes/Pro/Views/Admin/Admin_Settings.php:52
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:140
+msgid "Map ID"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:586
+msgid "Map Instructions Text"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:270
+msgid "Map Region"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:346
+msgid "Map Shown"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:149
+msgid "Map Type"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:703
+msgid "Map Type Buttons"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:946
+msgid "Map Visibility Rules"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:39
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:74
+msgid "Maps"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:64
+msgid "maps"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:57
+msgid "maps archives"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:63
+msgid "maps attributes"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:62
+msgid "maps list"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:61
+msgid "maps list navigation"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:65
+msgid "maps published"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:66
+msgid "maps published privately."
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:67
+msgid "maps reverted to draft."
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:68
+msgid "maps scheduled"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:69
+msgid "maps updated."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:923
+#: includes/Pro/Views/Admin/Admin_Settings.php:106
+msgid "Marker Anchor Points"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:906
+#: includes/Pro/Views/Admin/Admin_Settings.php:91
+msgid "Marker Icon"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1357
+#: includes/Views/Admin/Admin_Settings.php:1425
+msgid "Max order total"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1086
+#: includes/Pro/Views/Admin/Admin_Settings.php:164
+msgid "Maximum Cart Subtotal"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1622
+#: includes/Pro/Views/Admin/Admin_Settings.php:705
+msgid "Maximum Distance"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:458
+#: includes/Pro/Views/Admin/Admin_Settings.php:535
+msgid "Maximum order total"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:106
+#, php-format
+msgid ""
+"Meet and chat with store owners just like yourself from around the world. "
+"Discuss on ways to help grow sales, plugin recommendations, tips and tricks "
+"and more. %1$1sGrow your store today.%2$2s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1519
+#: includes/Pro/Views/Admin/Admin_Settings.php:630
+msgid "Miles"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1076
+#: includes/Pro/Views/Admin/Admin_Settings.php:156
+msgid "Minimum Cart Subtotal"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1354
+#: includes/Views/Admin/Admin_Settings.php:1422
+#: includes/Pro/Views/Admin/Admin_Settings.php:454
+#: includes/Pro/Views/Admin/Admin_Settings.php:531
+msgid "Minimum order total"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:105
+#: includes/Views/Admin/Admin_Settings.php:1977
+msgid "More"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:41
+msgid "My maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:737
+msgid "Name"
+msgstr ""
+
+#: includes/Pro/Controllers/AdminSettingsController.php:145
+msgid "Name this region."
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:46
+msgid "New maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:400
+msgid "New Order (Admin)"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:696
+msgid "No address results found for your location."
+msgstr ""
+
+#: includes/Pro/Views/Frontend/WooCommerce_Account.php:37
+msgid "No addresses have been saved yet."
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:50
+msgid "No maps found"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:51
+msgid "No maps found in trash"
+msgstr ""
+
+#: includes/Pro/Controllers/Export_Orders.php:53
+#: includes/Pro/Controllers/Export_Orders.php:88
+msgid "No records found for your date range."
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:58
+msgid "No regions created"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1280
+#: includes/Views/Admin/Admin_Settings.php:1635
+#: includes/Pro/Views/Admin/Admin_Settings.php:378
+#: includes/Pro/Views/Admin/Admin_Settings.php:714
+msgid "No Shipping Method Available Text"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1293
+#: includes/Views/Admin/Admin_Settings.php:1648
+#: includes/Pro/Views/Admin/Admin_Settings.php:387
+#: includes/Pro/Views/Admin/Admin_Settings.php:723
+msgid "No Shipping Method Error"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:90
+msgid "No store locations created"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:728
+msgid "Note"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:455
+msgid "Notice text"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:660
+msgid ""
+"Only Admins on your website can see this notice. You can turn it off in the "
+"plugin settings from the \"Tools\" submenu if everything works fine."
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:156
+msgid "Order Date"
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:151
+msgid "Order ID"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:402
+msgid "Order on Hold"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:487
+msgid "Order origin"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:645
+msgid "Order Received Page Map Height (in px)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:876
+#: includes/Pro/Views/Admin/Admin_Settings.php:67
+msgid "Order Received Page Map ID"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:655
+msgid "Order Received Page Map Width (in %)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1397
+#: includes/Pro/Views/Admin/Admin_Settings.php:489
+msgid "Order Total Beyond Limit Notice"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1387
+#: includes/Pro/Controllers/Checkout_Page/Validate.php:194
+#: includes/Pro/Views/Admin/Admin_Settings.php:483
+msgid "Order total for your selected region needs to be at least"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1400
+#: includes/Pro/Controllers/Checkout_Page/Validate.php:202
+#: includes/Pro/Views/Admin/Admin_Settings.php:492
+msgid "Order total for your selected region needs to be at most"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1384
+#: includes/Pro/Views/Admin/Admin_Settings.php:480
+msgid "Order Total Insufficient Notice"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1130
+#: includes/Pro/Views/Admin/Admin_Settings.php:254
+msgid "Orders Map View"
+msgstr ""
+
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:189
+msgid "Origin"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1500
+#: includes/Pro/Views/Admin/Admin_Settings.php:603
+msgid "Origin Coordinates"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:52
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:70
+msgid "Parent maps:"
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:155
+msgid "Phone Number"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:357
+#: includes/Views/Admin/Admin_Settings.php:429
+msgid "Places Autocomplete"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:524
+#: includes/Pro/Views/Admin/Admin_Settings.php:205
+msgid "Places Autocomplete Type"
+msgstr ""
+
+#: includes/Views/Frontend/Shortcodes.php:61
+#: includes/Views/Frontend/Frontend.php:213
+#: includes/Views/Frontend/Frontend.php:256
+#: includes/Views/Frontend/Frontend.php:290 includes/Views/Admin/Admin.php:346
+msgid "Please choose an option"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:458
+msgid ""
+"Please select a location from the list of suggested ones that appear while "
+"typing your address."
+msgstr ""
+
+#: includes/Pro/Controllers/Shipping/SetupSession.php:100
+#: includes/Pro/Controllers/Shipping/SetupSession.php:108
+#: includes/Pro/Views/Frontend/Frontend.php:99
+msgid "Please select a store location to deliver from"
+msgstr ""
+
+#: includes/Controllers/Checkout_Page/Validate.php:229
+#: includes/Pro/Controllers/Checkout_Page/Validate.php:70
+#: includes/Pro/Controllers/Checkout_Page/Validate.php:115
+msgid "Please select the store location you would like to order from."
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:695
+msgid ""
+"Please select your location manually by clicking on the map then moving the "
+"marker to your desired location."
+msgstr ""
+
+#: includes/Controllers/Checkout_Page/Validate.php:133
+msgid "Please select your location using the Map."
+msgstr ""
+
+#: admin-pointers.php:27
+msgid "Plugin Settings Menus"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:182
+msgid "Plugin settings not in your Language? Help translate it"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:528
+#: includes/Pro/Views/Admin/Admin_Settings.php:210
+msgid "Precise Address"
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:447
+#, php-format
+msgid ""
+"Prevent customers from checking out unless they select a location from the "
+"google places drop. You should turn this option on if you make use of any of "
+"the distance shipping workflows. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:292
+#, php-format
+msgid ""
+"Prevent the customer from checking out until they select a location on the "
+"map. %s"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:194
+msgid "Preview"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:699
+msgid "Previous Address"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1728
+#: includes/Pro/Views/Admin/Admin_Settings.php:787
+msgid "Price"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:176
+#, php-format
+msgid ""
+"Print Receipts, Invoices or Package labels as soon as an order happens. "
+"Check out %1$sPrintus - Cloud Printing Plugin for WooCommerce%2$s."
+msgstr ""
+
+#: includes/Notices/General_Notices.php:123
+msgid ""
+"Print WooCommerce receipts, invoices or package labels to ANY printer as "
+"soon as a new order comes in."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:67
+msgid "PRO"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:401
+msgid "Processing Order"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:417
+msgid "Provider"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:376
+msgid "QR Code"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1690
+#: includes/Pro/Views/Admin/Admin_Settings.php:753
+msgid "Range"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1717
+#: includes/Pro/Views/Admin/Admin_Settings.php:776
+msgid "range"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:167
+msgid "Read the documentation"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:606
+msgid "Recommended number is 16."
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin.php:114
+#: includes/Pro/Views/Admin/Admin.php:180
+msgid "Region"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:213
+msgid "Regions"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:55
+msgid "Remove featured image for this maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:309
+msgid "Remove Plus Code From Address"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:511
+#: includes/Pro/Views/Admin/Admin_Settings.php:197
+msgid "Restrict Places Autocomplete Countries"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:689
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:151
+msgid "Road Map"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2052
+msgid "Rules Order"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:690
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:152
+msgid "Satellite"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:155
+msgid "Save the Shipping Address for the future?"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:210
+msgid "Save your changes to update the preview"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:538
+#: includes/Pro/Views/Frontend/WooCommerce_Account.php:65
+#: includes/Pro/Views/Admin/Admin_Settings.php:220
+msgid "Saved Addresses"
+msgstr ""
+
+#: includes/Notices/General_Notices.php:81
+msgid "Say hello to Delivery & Pickup Scheduling for WooCommerce!"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:49
+msgid "Search maps"
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:406
+msgid "Search..."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2233
+#: includes/Views/Admin/Admin_Settings.php:2247
+#: includes/Views/Admin/Admin_Settings.php:2264
+#: includes/Views/Admin/Admin_Settings.php:2285
+msgid "Select"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:394
+msgid "Select Emails"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1351
+#: includes/Views/Admin/Admin_Settings.php:1419
+#: includes/Pro/Views/Admin/Admin_Settings.php:450
+#: includes/Pro/Views/Admin/Admin_Settings.php:527
+msgid "Select region"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:976
+msgid ""
+"Select shipping classes. NOTE: These settings apply if ANY of the items in "
+"the cart meets the condition."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1794
+#: includes/Views/Admin/Admin_Settings.php:1892
+#: includes/Pro/Views/Admin/Admin_Settings.php:841
+#: includes/Pro/Views/Admin/Admin_Settings.php:917
+msgid "Select store"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:512
+#, php-format
+msgid ""
+"Select the countries you would like addresses to be pulled from when using "
+"the Places Autocomplete feature. %s"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:198
+msgid ""
+"Select the countries you'd like addresses to be pulled from when using the "
+"Places Autocomplete feature. Google will only respect 5 restricted countries,"
+" so please only select 5 at max."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:396
+msgid "Select the Emails you'd like this setting to take effect on."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:465
+msgid ""
+"Select the input fields where the places autocomplete should be allowed."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1256
+#: includes/Views/Admin/Admin_Settings.php:1489
+#: includes/Views/Admin/Admin_Settings.php:1851
+#: includes/Pro/Views/Admin/Admin_Settings.php:362
+#: includes/Pro/Views/Admin/Admin_Settings.php:597
+#: includes/Pro/Views/Admin/Admin_Settings.php:880
+#, php-format
+msgid ""
+"Select the Shipping Method(s) this feature applies to. If there is a cost "
+"already set on the shipping method, then that base cost will be added to the "
+"cost set for the region. NOTE: You need to have at least ONE created "
+"Shipping Zone with Shipping Methods attached to it. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1047
+#: includes/Pro/Views/Admin/Admin_Settings.php:130
+#, php-format
+msgid "Select the Shipping Zones. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:525
+#: includes/Pro/Views/Admin/Admin_Settings.php:206
+msgid ""
+"Select the type of address you would like the Places Autocomplete API to "
+"return."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:420
+msgid ""
+"Select whether to open the directions to customer locations in Google Maps "
+"or Waze. This option only applies to admin related directions links."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:271
+msgid "Select your country."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1515
+#: includes/Pro/Views/Admin/Admin_Settings.php:625
+msgid ""
+"Select your preferred unit. By Default the Distance Matrix API returns "
+"values in Metric Units. If Miles is selected then Kilometers will be "
+"converted into Miles where 1 Kilometer is equivalent to 0.621371 Miles."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1819
+#: includes/Pro/Views/Admin/Admin_Settings.php:865
+#, php-format
+msgid ""
+"Select your store location(s) and set the price for shipping from that store."
+" %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1748
+#: includes/Pro/Views/Admin/Admin_Settings.php:805
+#, php-format
+msgid ""
+"Select your store location(s) and set the unit price for shipping from that "
+"location. The shipping cost for the order will be calculated automagically "
+"when a customer selects their desired store at checkout. This setting will "
+"override the \"Origin Coordinates\" and \"Cost Per Unit Distance\" you set "
+"above. If making use of this feature, be sure to set the details for your "
+"main store. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin.php:89
+msgid "Selected Store"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:908
+#: includes/Pro/Views/Admin/Admin_Settings.php:93
+#, php-format
+msgid ""
+"Set a custom icon to be used for the main map marker; the marker that "
+"customers move around on the map. %s"
+msgstr ""
+
+#: includes/Pro/Controllers/AdminSettingsController.php:148
+msgid ""
+"Set a Hexadecimal color code for this region (leaving blank will use default "
+"region background color)."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1798
+#: includes/Pro/Views/Admin/Admin_Settings.php:845
+msgid "Set cost per unit distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1150
+#: includes/Pro/Views/Admin/Admin_Settings.php:275
+msgid "Set END date from which you want to start exporting orders."
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:54
+msgid "Set featured image for this maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1141
+#: includes/Pro/Views/Admin/Admin_Settings.php:267
+msgid "Set START date from which you want to start exporting orders."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:862
+#: includes/Pro/Views/Admin/Admin_Settings.php:55
+#, php-format
+msgid ""
+"Set the Map ID for the respective Maps. You can create a custom map for each "
+"entry. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1623
+#: includes/Pro/Views/Admin/Admin_Settings.php:706
+msgid ""
+"Set the maximum distance you will ship to. The unit used will be the same as "
+"the unit you set above."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1345
+#: includes/Pro/Views/Admin/Admin_Settings.php:443
+#, php-format
+msgid ""
+"Set the minimum and maximum order total a customer needs to have based on "
+"the region they are trying to checkout from. If a region only has a minimum "
+"order total, then simply leave the maximum order total field blank. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1413
+#: includes/Pro/Views/Admin/Admin_Settings.php:520
+#, php-format
+msgid ""
+"Set the minimum and maximum order total a customer needs to have to receive "
+"Free Shipping. If you do not want to limit how large a customer's order can "
+"be to receive Free Shipping, then leave the maximum order total field blank. "
+"%s"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:369
+msgid "Ship Only to Drawn Regions"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1267
+msgid "Ship Only to Drawn Regions."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:102
+#: includes/Pro/Views/Admin/Admin_Settings.php:306
+msgid "Shipping"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:470
+msgid "Shipping Address 1"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2236
+#: includes/Views/Admin/Admin_Settings.php:2267
+#: includes/Views/Admin/Admin_Settings.php:2287
+msgid "Shipping Address Area - Bottom"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:2235
+#: includes/Views/Admin/Admin_Settings.php:2249
+#: includes/Views/Admin/Admin_Settings.php:2266
+#: includes/Views/Admin/Admin_Settings.php:2286
+msgid "Shipping Address Area - Top"
+msgstr ""
+
+#: includes/Controllers/Map_Visibility_Controller.php:171
+#: includes/Views/Admin/Admin_Settings.php:974
+msgid "Shipping Classes"
+msgstr ""
+
+#: includes/Controllers/Map_Visibility_Controller.php:170
+#: includes/Views/Admin/Admin_Settings.php:759
+#: includes/Views/Admin/Admin_Settings.php:1253
+#: includes/Views/Admin/Admin_Settings.php:1486
+#: includes/Views/Admin/Admin_Settings.php:1848
+#: includes/Pro/Views/Admin/Admin_Settings.php:359
+#: includes/Pro/Views/Admin/Admin_Settings.php:594
+#: includes/Pro/Views/Admin/Admin_Settings.php:877
+msgid "Shipping Methods"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1342
+#: includes/Pro/Views/Admin/Admin_Settings.php:431
+#: includes/Pro/Views/Admin/Admin_Settings.php:440
+msgid "Shipping Restrictions"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:195
+msgid "Shipping Settings"
+msgstr ""
+
+#: includes/Controllers/Map_Visibility_Controller.php:178
+#: includes/Views/Admin/Admin_Settings.php:1045
+#: includes/Pro/Views/Admin/Admin_Settings.php:128
+msgid "Shipping Zones"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:836
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:197
+msgid "Shortcode"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:301
+msgid ""
+"Should customers be able to click on icons of different locations that "
+"appear on Google Maps? Recommended setting: Disabled"
+msgstr ""
+
+#. 1: Line break HTML 2: opening strong tag 3: closing strong tag
+#: includes/Views/Admin/Admin_Settings.php:987
+#, php-format
+msgid ""
+"Should the map be shown or hidden if the order falls within above selected "
+"shipping classes? %1$s%1$s Selecting %2$sShow%3$s will display the map "
+"%2$sONLY IF%3$s the customer order falls inside the shipping classes "
+"selected above. %1$s Selecting %2$sHide%3$s will display the map only if the "
+"customer order %2$sDOES NOT%3$s fall inside the shipping classes selected "
+"above."
+msgstr ""
+
+#. 1: Line break HTML 2: opening strong tag 3: closing strong tag
+#: includes/Views/Admin/Admin_Settings.php:1060
+#: includes/Pro/Views/Admin/Admin_Settings.php:141
+#, php-format
+msgid ""
+"Should the map be shown or hidden if the order falls within above selected "
+"shipping zones? %1$s%1$s Selecting %2$sShow%3$s will display the map "
+"%2$sONLY IF%3$s the customer order falls inside the shipping zones selected "
+"above. %1$s Selecting %2$sHide%3$s will display the map only if the customer "
+"order %2$sDOES NOT%3$s fall inside the shipping zones selected above."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:802
+msgid ""
+"Should we display your store locations as pins on the checkout page map?"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:995
+#: includes/Views/Admin/Admin_Settings.php:1067
+#: includes/Pro/Views/Admin/Admin_Settings.php:149
+msgid "Show"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:499
+#: includes/Pro/Views/Admin/Admin_Settings.php:188
+msgid "Show A Searchbox Inside the Map"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1002
+msgid "Show map for coupons"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:331
+msgid "Show Map on the Order Received Page"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:342
+msgid "Show Map on View Order Page"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:800
+msgid "Show On Map"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:984
+#: includes/Views/Admin/Admin_Settings.php:1057
+#: includes/Pro/Views/Admin/Admin_Settings.php:138
+msgid "Show or Hide"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:54
+msgid "Show Regions"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:826
+msgid "Show Selected Store in Order Emails"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1944
+msgid "Show Shipping Distance"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1306
+#: includes/Pro/Views/Admin/Admin_Settings.php:396
+msgid "Show Shipping Regions on Checkout Map"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:87
+msgid "Show Store Locations"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:175
+msgid "Show Streetview Control"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1004
+msgid ""
+"Show the map whenever any of the selected coupons are applied to the order."
+msgstr ""
+
+#: includes/Views/Frontend/Frontend.php:697
+msgid ""
+"Slow down, you are moving too quickly, use the zoom out button to move the "
+"marker across larger distances."
+msgstr ""
+
+#: includes/Bootstrap/Main.php:683
+msgid "SoaringLeads Plugins"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1576
+#: includes/Pro/Views/Admin/Admin_Settings.php:671
+msgid "Standard"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1720
+#: includes/Pro/Views/Admin/Admin_Settings.php:779
+msgid "Start range"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:377
+msgid "Static Map"
+msgstr ""
+
+#: includes/Views/Admin/Admin.php:639
+msgid "Store"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1744
+#: includes/Pro/Views/Admin/Admin_Settings.php:801
+msgid "Store "
+msgstr ""
+
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:209
+msgid "Store Distance Unit Cost"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:100
+#: includes/Views/Admin/Admin_Settings.php:719
+#: includes/Views/Admin/Admin_Settings.php:784
+#: includes/Views/Admin/Admin_Settings.php:1785
+#: includes/Views/Admin/Admin_Settings.php:1883
+#: includes/Pro/Views/Admin/Admin_Settings.php:822
+#: includes/Pro/Views/Admin/Admin_Settings.php:832
+#: includes/Pro/Views/Admin/Admin_Settings.php:898
+#: includes/Pro/Views/Admin/Admin_Settings.php:908
+msgid "Store Locations"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:816
+msgid "Store Selector Label"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1674
+#: includes/Pro/Views/Admin/Admin_Settings.php:741
+msgid "Subtract Free Shipping Distance From Total Distance"
+msgstr ""
+
+#: includes/Notices/Review_Notices.php:54
+msgid "Sure"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:692
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:154
+msgid "Terrain"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1247
+msgid ""
+"The above is a dummy map. Drawing of shipping regions is available in the "
+"PRO version of LPAC."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1133
+msgid ""
+"The above is a dummy map. Plotted orders feature is available in the PRO "
+"version of LPAC."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:924
+#: includes/Pro/Views/Admin/Admin_Settings.php:107
+msgid ""
+"The anchor point for the marker in X,Y values. Used to show customer where "
+"exactly they're moving the marker to. The X value is usually half of the "
+"image width, the Y is usually the height of the image + 3. Be sure to test "
+"the map marker after setting these values to ensure the anchor works well."
+msgstr ""
+
+#: admin-pointers.php:54
+#, php-format
+msgid ""
+"The documentation for acquiring your Google Maps API Key can be found "
+"%1$sHERE%2$s. Once you've entered and saved your API Key; feel free to fine-"
+"tune Kikote's settings.%3$s%3$s %4$sNOTE:%5$s The plugin will NOT work "
+"without an API key."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1126
+#, php-format
+msgid "The following features are available in the PRO version. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:914
+#: includes/Pro/Views/Admin/Admin_Settings.php:99
+msgid "The icon to use as the map marker."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:877
+#: includes/Pro/Views/Admin/Admin_Settings.php:68
+msgid "The Map ID to use for your \"Order Received\" page for styling."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:887
+#: includes/Pro/Views/Admin/Admin_Settings.php:76
+msgid "The Map ID to use for your \"View Order\" page for styling."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:867
+#: includes/Pro/Views/Admin/Admin_Settings.php:60
+msgid "The Map ID to use for your Checkout page for styling."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:897
+#: includes/Pro/Views/Admin/Admin_Settings.php:84
+msgid ""
+"The Map ID to use for your the \"View Order\" page inside the WordPress "
+"admin Dashboard."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1087
+#: includes/Pro/Views/Admin/Admin_Settings.php:165
+msgid ""
+"The maximum amount the cart total can be before hiding the checkout page map."
+" NOTE: Coupons and Shipping Cost are not taken into account when calculating "
+"the cart subtotal."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1077
+#: includes/Pro/Views/Admin/Admin_Settings.php:157
+msgid ""
+"The minimum amount the cart total should be before showing the checkout page "
+"map. NOTE: Coupons and Shipping Cost are not taken into account when "
+"calculating the cart subtotal."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1041
+#, php-format
+msgid ""
+"The Shipping Zones, Minimum Cart Subtotal and Maximum Cart Subtotal features "
+"are available in the PRO version. %s"
+msgstr ""
+
+#. 1: Learn more link 2: HTML Break element
+#: includes/Views/Admin/Admin_Settings.php:371
+#, php-format
+msgid ""
+"The Static Map option requires enabling a special Google Maps API. Please "
+"read the following doc to %1$s %2$s QR Codes are saved to your uploads "
+"directory at: <code>/wp-content/uploads/lpac/qr-codes/order_id.jpg</code>"
+msgstr ""
+
+#: admin-pointers.php:28
+#, php-format
+msgid ""
+"These are the different setting menus for the plugin. You can check them out "
+"%1$slater%2$s, to first get started with Kikote, you need to enter a "
+"%1$sGoogle Maps API Key%2$s on this %1$sGeneral Settings%2$s page."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1476
+#: includes/Pro/Views/Admin/Admin_Settings.php:584
+msgid ""
+"This is a specific API key created just for usage of Google's Distance "
+"Matrix API. The key should have no referrer restrictions set on it."
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:257
+msgid ""
+"This map shows the locations for the orders in your date range. It only "
+"shows orders that are marked as \"Processing\" or \"Completed\"."
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:344
+#, php-format
+msgid ""
+"This option displays a map view on the order details page in the customer "
+"account. %s"
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:333
+#, php-format
+msgid ""
+"This option displays a map view on the order received page after an order "
+"has been placed by a customer. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1786
+msgid ""
+"This setting is simply a demo of adding store locations and pricing. It does "
+"not actually do anything in the free version of the plugin."
+msgstr ""
+
+#: includes/Notices/General_Notices.php:151
+msgid ""
+"This update comes with major refactoring changes to the Kikote shipping "
+"workflows. If you're making use of Cost By: Region, Distance, or Store "
+"Location, then please double check that your shipping is working as expected."
+" If you have any issues then please submit a support request."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:104
+#: includes/Views/Admin/Admin_Settings.php:1927
+msgid "Tools"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1542
+#: includes/Pro/Views/Admin/Admin_Settings.php:645
+msgid "Travel Mode"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:170
+msgid "Try out the PRO version"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:810
+msgid ""
+"Turning on this option adds a store selector dropdown field in your checkout "
+"page. The selected store would show on the order details for customers and "
+"on the admin order page."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1638
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:281
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:289
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:490
+#: includes/Pro/Controllers/Shipping/CostByDistance.php:499
+#: includes/Pro/Views/Admin/Admin_Settings.php:717
+msgid "Unfortunately, we do not currently ship this far."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1283
+#: includes/Pro/Controllers/Shipping/CostByRegion.php:156
+#: includes/Pro/Controllers/Shipping/CostByRegion.php:164
+#: includes/Pro/Views/Admin/Admin_Settings.php:381
+msgid "Unfortunately, we do not currently ship to your region."
+msgstr ""
+
+#. 1: Emoji 2: Opening <strong> HTML element 3: Closing <strong> HTML element 4: % symbol
+#: includes/Notices/Upsells_Notices.php:56
+#, php-format
+msgid ""
+"Unlock the full potential of your pickups and deliveries %1$s The PRO "
+"version of Kikote is available for purchase! Use Coupon code "
+"%2$sDASHINIT10%3$s for a 10%4$s discount on your first year subscription! "
+"%2$sLimited time offer%3$s."
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:59
+msgid "Upload to this maps"
+msgstr ""
+
+#. Author of the plugin
+msgid "Uriahs Victor"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:56
+msgid "Use as featured image for this maps"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:614
+msgid "Use Store Selector as Origin"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:353
+msgid ""
+"Use the controls at the top of the map to draw your shipping regions, set "
+"their shipping cost and background color. Click on a shipping region to "
+"update its cost. Close the label on a region to delete that region."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1200
+#: includes/Pro/Views/Admin/Admin_Settings.php:318
+#, php-format
+msgid ""
+"Use the map to draw regions and set shipping costs for customers who fall "
+"within those regions.  %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:162
+msgid "Use the Options Below to Change the Plugin's Settings"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:616
+#, php-format
+msgid ""
+"Use the Store selected in the Store Selector dropdown as the \"Origin\" "
+"location when using the Cost by Distance feature. This setting will override "
+"the \"Origin Coordinates\" option set above. %s"
+msgstr ""
+
+#. 1: Learn more link
+#: includes/Views/Admin/Admin_Settings.php:2039
+#, php-format
+msgid ""
+"Use the table below to arrange the map visibility rules by dragging and "
+"dropping. The last rule in the the table decides the final visibility state "
+"of the map. %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:513
+#: includes/Pro/Views/Admin/Admin_Settings.php:199
+msgid ""
+"Use this feature if you only want to show address results from a specific "
+"country or countries."
+msgstr ""
+
+#: includes/Pro/Models/Export_Orders.php:152
+msgid "User ID"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Admin_Settings.php:560
+#, php-format
+msgid ""
+"Various workflows that let you charge a customer based on their distance. "
+"Select either \"Standard\", \"Range\" or \"Store\". %s"
+msgstr ""
+
+#: includes/Views/Admin/Admin.php:70 includes/Views/Admin/Admin.php:600
+msgid "View"
+msgstr ""
+
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:47
+#: includes/Pro/Controllers/Admin/Custom_Post_Types.php:48
+msgid "View maps"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:665
+msgid "View Order Page Map Height (in px)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:886
+#: includes/Pro/Views/Admin/Admin_Settings.php:75
+msgid "View Order Page Map ID"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:675
+msgid "View Order Page Map Width (in %)"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:101
+msgid "Visibility Rules"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1550
+#: includes/Pro/Views/Admin/Admin_Settings.php:653
+msgid "Walking"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:423
+msgid "Waze"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1296
+#: includes/Pro/Views/Admin/Admin_Settings.php:390
+msgid ""
+"We do not currently ship to your selected location. Please choose a "
+"different location on the map then try placing your order again. Please "
+"contact us if you need any help."
+msgstr ""
+
+#: includes/Pro/Views/Frontend/Frontend.php:86
+msgid ""
+"We do not currently ship to your selected location. Please choose a "
+"different location on the map then try placing your order again. Please "
+"contact us with any issues."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:1651
+#: includes/Pro/Views/Frontend/Frontend.php:112
+#: includes/Pro/Views/Admin/Admin_Settings.php:726
+msgid ""
+"We do not currently ship to your selected location. Please choose a location "
+"closer to our main store then try placing your order again. Please contact "
+"us if you need any help."
+msgstr ""
+
+#: includes/Notices/General_Notices.php:57
+msgid "We Need Your Help"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:576
+msgid "Where Should the Map Appear on the Checkout Page?"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:166
+msgid "Width"
+msgstr ""
+
+#: includes/Pro/Controllers/AdminSettingsController.php:147
+msgid "Would you like to change the cost of this region?"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:228
+#: includes/Views/Admin/Admin_Settings.php:241
+#: includes/Views/Admin/Admin_Settings.php:282
+#: includes/Views/Admin/Admin_Settings.php:291
+#: includes/Views/Admin/Admin_Settings.php:302
+#: includes/Views/Admin/Admin_Settings.php:312
+#: includes/Views/Admin/Admin_Settings.php:323
+#: includes/Views/Admin/Admin_Settings.php:337
+#: includes/Views/Admin/Admin_Settings.php:348
+#: includes/Views/Admin/Admin_Settings.php:363
+#: includes/Views/Admin/Admin_Settings.php:438
+#: includes/Views/Admin/Admin_Settings.php:448
+#: includes/Views/Admin/Admin_Settings.php:480
+#: includes/Views/Admin/Admin_Settings.php:500
+#: includes/Views/Admin/Admin_Settings.php:547
+#: includes/Views/Admin/Admin_Settings.php:801
+#: includes/Views/Admin/Admin_Settings.php:809
+#: includes/Views/Admin/Admin_Settings.php:827
+#: includes/Views/Admin/Admin_Settings.php:954
+#: includes/Views/Admin/Admin_Settings.php:1208
+#: includes/Views/Admin/Admin_Settings.php:1218
+#: includes/Views/Admin/Admin_Settings.php:1268
+#: includes/Views/Admin/Admin_Settings.php:1307
+#: includes/Views/Admin/Admin_Settings.php:1319
+#: includes/Views/Admin/Admin_Settings.php:1331
+#: includes/Views/Admin/Admin_Settings.php:1372
+#: includes/Views/Admin/Admin_Settings.php:1452
+#: includes/Views/Admin/Admin_Settings.php:1530
+#: includes/Views/Admin/Admin_Settings.php:1561
+#: includes/Views/Admin/Admin_Settings.php:1585
+#: includes/Views/Admin/Admin_Settings.php:1610
+#: includes/Views/Admin/Admin_Settings.php:1675
+#: includes/Views/Admin/Admin_Settings.php:1699
+#: includes/Views/Admin/Admin_Settings.php:1753
+#: includes/Views/Admin/Admin_Settings.php:1824
+#: includes/Views/Admin/Admin_Settings.php:1836
+#: includes/Views/Admin/Admin_Settings.php:1935
+#: includes/Views/Admin/Admin_Settings.php:1945
+#: includes/Pro/Views/Admin/Admin_Settings.php:189
+#: includes/Pro/Views/Admin/Admin_Settings.php:228
+#: includes/Pro/Views/Admin/Admin_Settings.php:326
+#: includes/Pro/Views/Admin/Admin_Settings.php:332
+#: includes/Pro/Views/Admin/Admin_Settings.php:370
+#: includes/Pro/Views/Admin/Admin_Settings.php:397
+#: includes/Pro/Views/Admin/Admin_Settings.php:405
+#: includes/Pro/Views/Admin/Admin_Settings.php:413
+#: includes/Pro/Views/Admin/Admin_Settings.php:421
+#: includes/Pro/Views/Admin/Admin_Settings.php:472
+#: includes/Pro/Views/Admin/Admin_Settings.php:499
+#: includes/Pro/Views/Admin/Admin_Settings.php:566
+#: includes/Pro/Views/Admin/Admin_Settings.php:615
+#: includes/Pro/Views/Admin/Admin_Settings.php:637
+#: includes/Pro/Views/Admin/Admin_Settings.php:660
+#: includes/Pro/Views/Admin/Admin_Settings.php:680
+#: includes/Pro/Views/Admin/Admin_Settings.php:697
+#: includes/Pro/Views/Admin/Admin_Settings.php:742
+#: includes/Pro/Views/Admin/Admin_Settings.php:762
+#: includes/Pro/Views/Admin/Admin_Settings.php:810
+#: includes/Pro/Views/Admin/Admin_Settings.php:870
+#: includes/Pro/Views/Admin/Admin_Settings.php:888
+msgid "Yes"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:838
+#, php-format
+msgid ""
+"You can use the shortcode: %1$s[kikote_store_selector]%2$s anywhere on your "
+"website to allow customers (including guests) to set their preferred store "
+"to order from. The selected store will automatically be chosen at checkout.  "
+"%3$s"
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:156
+msgid ""
+"You need an API Key to use Google Maps. Please see this document for how to "
+"get it "
+msgstr ""
+
+#: includes/Views/Frontend/Shortcodes.php:50
+msgid "You need to create at least 2 store locations to use this shortcode."
+msgstr ""
+
+#: includes/Views/Admin/Admin_Settings.php:702
+msgid "Zoom Button"
+msgstr ""
+
+#: includes/Pro/Views/Admin/Custom_Post_Types/Map_Builder.php:145
+msgid "Zoom Level"
+msgstr ""
